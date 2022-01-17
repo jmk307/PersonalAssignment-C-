@@ -1,1 +1,5 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+개인과제data.json filter=lfs diff=lfs merge=lfs -text
+abstract.json filter=lfs diff=lfs merge=lfs -text
+bibliosummary.json filter=lfs diff=lfs merge=lfs -text
+.json filter=lfs diff=lfs merge=lfs -text
