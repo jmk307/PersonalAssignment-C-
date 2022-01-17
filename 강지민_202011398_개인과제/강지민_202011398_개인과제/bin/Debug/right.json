@@ -1,0 +1,18 @@
+[
+    {
+        "testId":1,
+        "testName":"HTML",
+        "minScore":20,
+        "score":40,
+        "date":"12-2-2014",
+        "status":"PASSED"
+    },
+    {   
+        "testId":1,
+        "testName":"JAVA",
+        "minScore":20,
+        "score":10,
+        "date":"12-2-2014",
+        "status":"FAILED"
+    }
+]
